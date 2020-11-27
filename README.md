@@ -11,7 +11,7 @@ Gosto de resolver problemas através da programação, especialmente através de
 🎮 Curto LoL, ouvir música e ler no meu tempo livre.
 
 📧 Bora conversar! <br>[![Gmail Badge](https://img.shields.io/badge/-jp1007.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jp1007.dev@gmail.com)]
-
+(mailto:jp1007.dev@gmail.com)
 <!--
 **joaoschneider/joaoschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
