@@ -4,9 +4,7 @@
 
 Gosto de resolver problemas através da programação, especialmente usando Java :coffee:
 
-👔 Atualmente trabalho com desenvolvimento Android focado na indústria coureiro-calçadista, buscando trazer a realidade da Indústria 4.0 através de bancos de dados conectados em tempo real com o ambiente de produção.
-
-💡 Busco sempre novos conhecimentos relacionados ao Android e também estou estudando Desenvolvimento Web.
+👔 Trabalho na CWI Software como desenvolvedor back-end.
 
 🎮 Curto jogar, ouvir música e ler no meu tempo livre.
 
