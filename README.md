@@ -2,13 +2,13 @@
 
 ### Olá!
 
-Gosto de resolver problemas através da programação, especialmente através de aplicativos Android. 
+Gosto de resolver problemas através da programação, especialmente usando Java :coffee:
 
 👔 Atualmente trabalho com desenvolvimento Android focado na indústria coureiro-calçadista, buscando trazer a realidade da Indústria 4.0 através de bancos de dados conectados em tempo real com o ambiente de produção.
 
 💡 Busco sempre novos conhecimentos relacionados ao Android e também estou estudando Desenvolvimento Web.
 
-🎮 Curto LoL, ouvir música e ler no meu tempo livre.
+🎮 Curto jogar, ouvir música e ler no meu tempo livre.
 
 📧 Bora conversar! <br>[![Gmail Badge](https://img.shields.io/badge/-jp1007.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jp1007.dev@gmail.com)](mailto:jp1007.dev@gmail.com)
 <!--
