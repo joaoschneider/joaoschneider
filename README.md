@@ -2,7 +2,7 @@
 
 ### Olá!
 
-Gosto de resolver problemas através da programação, especialmente usando Java :coffee:
+Gosto de resolver problemas através da programação, especialmente usando Node.js
 
 👔 Trabalho na CWI Software como desenvolvedor back-end.
 
